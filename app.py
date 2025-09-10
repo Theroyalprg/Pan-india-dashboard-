@@ -316,7 +316,7 @@ elif page == "Feedback":
 # Footer with beta disclaimer
 st.markdown("""
 <p class="footer">
-    © 2024 Wind Energy Analytics - Pan India Beta | 
+    © 2025 Wind Energy Analytics by Prakarsh - Pan India Beta | 
     <span style="color: #ff6b6b;">BETA VERSION - Data subject to validation</span><br>
     For preliminary assessment only. Not for commercial decision-making.
 </p>
